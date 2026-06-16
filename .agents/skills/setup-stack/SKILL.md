@@ -21,6 +21,7 @@ Create an Expo mobile application in the `apps/mobile` directory and add React-s
 ```bash
 bunx create-expo-app@latest apps/mobile --template blank --no-install
 bunx skills add PatternsDev/skills/react --path apps/mobile
+bunx skills add expo/skills --path apps/mobile 
 ```
 
 ### 3. Add Web App (TanStack Start)
